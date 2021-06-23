@@ -1,0 +1,20 @@
+// Write your tests here!
+const expect = require("chai").expect
+
+describe(caesar, () => {
+    it("should properly encode", () => {
+	
+    })
+    it("should properly decode", () => {
+
+    })
+    it("should decode 42 as '(i/j)'", () => {
+
+    })
+    it("should allow spaces", () => {
+
+    })
+    it("should return false if the coded message has an odd number of digits", () => {
+
+    }
+})
